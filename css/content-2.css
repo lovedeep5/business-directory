@@ -1,0 +1,9 @@
+.content-2-wrapper {
+  position: relative;
+}
+.content-2-wrapper .content-2 {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.content-2-wrapper .content-2 span {
+  font-size: 33px;
+}

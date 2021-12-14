@@ -1,0 +1,35 @@
+.sup-info-wrapper {
+  position: relative;
+}
+.sup-info-wrapper .sup-info {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.sup-info-wrapper .service-area-heading {
+  padding-bottom: 7px;
+  font-size: 18px;
+}
+
+.sup-info-wrapper ul li a {
+  text-decoration: none;
+  color: var(--black);
+  line-height: 2;
+}
+
+.sup-info-wrapper ul li a:hover,
+.sup-info-wrapper ul li a:active,
+.sup-info-wrapper ul li a:focus {
+  opacity: 0.5;
+}
+
+.sup-info-wrapper .social-media a {
+  color: var(--black);
+  font-size: 26px;
+  margin-right: 10px;
+}
+.sup-info-wrapper .social-media a:hover,
+.sup-info-wrapper .social-media a:active,
+.sup-info-wrapper .social-media a:focus {
+  opacity: 0.7;
+  color: rgba(0, 0, 255, 0.8);
+}

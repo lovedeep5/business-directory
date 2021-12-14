@@ -1,0 +1,10 @@
+.header-wrapper {
+  position: relative;
+}
+.header-wrapper .header {
+  padding: 5px 0px;
+  position: sticky;
+  width: 100%;
+  top: 0px;
+  left: 0px;
+}

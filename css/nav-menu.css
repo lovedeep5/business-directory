@@ -1,0 +1,8 @@
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 0.8);
+}
+@media (min-width: 992px) {
+  .nav-menu .navbar-collapse {
+    justify-content: flex-end;
+  }
+}

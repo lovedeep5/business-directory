@@ -1,0 +1,37 @@
+@import url("./variables.css");
+@import url("./header.css");
+@import url("./nav-menu.css");
+@import url("./banner.css");
+@import url("./services.css");
+@import url("./content-2.css");
+@import url("./sup-info.css");
+@import url("./footer.css");
+
+@import url("./search-page.css");
+
+.inner-page .content {
+  padding-top: 3em;
+}
+.inner-page .content {
+  margin-bottom: 50px;
+}
+.inner-page p,
+.inner-page span,
+.inner-page img,
+.inner-page h1,
+.inner-page h2 {
+  max-width: 51em;
+}
+.bold {
+  font-weight: 700;
+}
+.validation-error {
+  color: red;
+  font-size: 14px;
+}
+.search-company-name {
+  text-transform: capitalize;
+}
+.search-company-detailes {
+  text-transform: capitalize;
+}
