@@ -1,3 +1,6 @@
+# Live Link
+https://ld-business-directory.herokuapp.com/
+
 # business-directory
 This is a basic templated website, you can install it on your local server or the live server.
 
